@@ -1,8 +1,6 @@
 ### 👋 About Me
 
-Hi, I'm Ameya! I study computer science at New York University, focusing my coursework in data science, statistics, and machine learning. I am passionate about leveraging big data to solve complex problems and communicate engaging stories to both technical and non-technical audiences.
-
-In my free time, I enjoy reading, singing, and cooking!
+Hi, I'm Ameya! I study computer science at New York University, focusing my coursework in data science, statistics, and machine learning. I am passionate about leveraging big data to solve complex problems and communicate engaging stories to both technical and non-technical audiences. In my free time, I enjoy reading, singing, and cooking.
 
 #### 📊 Projects
 I have explored data science and machine learning through a number of projects. You can check these out here on GitHub:
