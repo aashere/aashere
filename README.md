@@ -4,9 +4,16 @@ Hi, I'm Ameya! I study computer science at New York University, focusing my cour
 
 In my free time, I enjoy reading, singing, and cooking!
 
+#### 📊 Projects
+I have explored data science and machine learning through a number of projects. You can check these out here on GitHub:
+
+- [Traffic Simulation Project](https://github.com/aashere/BDAD_Violet_Noise) 🚗
+- [Regularized Subset Selection Project](https://github.com/aashere/regularized-subset-selection) 🧮
+- [COVID-19 Factors Project](https://github.com/aashere/covid19-factors) 😷
+
 #### 📚 Education
 
-I am currently pursuing my M.S. in Computer Science (expected graduation January 2023) at NYU's Courant Institute of Mathematical Sciences. I have also earned my B.A. in Computer Science, magna cum laude, from NYU, College of Arts and Science.
+I am currently pursuing my M.S. in Computer Science (expected graduation January 2023) at NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/). I have also earned my B.A. in Computer Science, magna cum laude, from NYU, [College of Arts and Science](https://cas.nyu.edu/).
 
 #### 👨🏽‍💻 Internship
 During my most recent internship with [Publicis Sapient](https://www.publicissapient.com/), I:
@@ -17,12 +24,5 @@ During my most recent internship with [Publicis Sapient](https://www.publicissap
 - Delivered an impactful team presentation summarizing the design principles, architecture, and business advantages of the final product to an audience of 100+, including company management and engineers
 - Developed an end-to-end optionality feature using Python and JavaScript
 
-#### 📊 Projects
-I have explored data science and machine learning through a number of projects. You can check these out here on GitHub:
-
-- [Traffic Simulation Project](https://github.com/aashere/BDAD_Violet_Noise) 🚗
-- [Regularized Subset Selection Project](https://github.com/aashere/regularized-subset-selection) 🧮
-- [COVID-19 Factors Project](https://github.com/aashere/covid19-factors) 😷
-
 #### 🤝 Social Media
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ameya-shere/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ameya-shere/). Feel free to send me a message anytime - I'm always happy to talk :)
