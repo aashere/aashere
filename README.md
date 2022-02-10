@@ -13,8 +13,7 @@ I have explored data science and machine learning through a number of projects. 
 
 #### ⚙️ Languages and Technologies
 
-
-<img src="https://img.shields.io/npm/v/npm.svg?logo=npm" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!---<img src="" />*/--->
 
 
