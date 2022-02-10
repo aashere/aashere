@@ -13,7 +13,7 @@ I have explored data science and machine learning through a number of projects. 
 
 #### 📚 Education
 
-I am currently pursuing my M.S. in Computer Science (expected graduation January 2023) at NYU's [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/). I have also earned my B.A. in Computer Science, magna cum laude, from NYU, [College of Arts and Science](https://cas.nyu.edu/).
+I am currently pursuing my M.S. in Computer Science (expected graduation January 2023) at NYU's [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/home/index.html). I have also earned my B.A. in Computer Science, magna cum laude, from NYU, [College of Arts and Science](https://cas.nyu.edu/).
 
 #### 👨🏽‍💻 Internship
 During my most recent internship with [Publicis Sapient](https://www.publicissapient.com/), I:
