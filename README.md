@@ -11,6 +11,15 @@ I have explored data science and machine learning through a number of projects. 
 - [Regularized Subset Selection Project](https://github.com/aashere/regularized-subset-selection) 🧮
 - [COVID-19 Factors Project](https://github.com/aashere/covid19-factors) 😷
 
+#### ⚙️ Languages and Technologies
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+
+
 #### 📚 Education
 
 I am currently pursuing my M.S. in Computer Science (expected graduation January 2023) at NYU's [Courant Institute of Mathematical Sciences](https://cs.nyu.edu/home/index.html). I have also earned my B.A. in Computer Science, magna cum laude, from NYU, [College of Arts and Science](https://cas.nyu.edu/).
