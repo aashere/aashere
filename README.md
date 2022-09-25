@@ -2,7 +2,7 @@
 
 Hi, I'm Ameya! I study computer science at New York University, focusing my coursework in data science, statistics, and machine learning. I am skilled at leveraging my technical background to dissect complex business problems and develop creative solutions that consistently exceed stakeholder expectations. I am currently seeking a data or machine learning role starting in January 2023. 
 
-I am skilled with Python, SQL, and Apache Spark, among other languages and frameworks. I have worked closely with all aspects of the data science lifecycle - EDA, ETL, feature engineering, modeling, evaluation, and data visualization. I also have a rigorous mathematical foundation in probability, statistics, linear algebra, and multivariate calculus, which has given me a deep understanding of the tools I use.
+My main languages are Python and SQL, though I have experience with many different languages and frameworks. I have worked closely with all aspects of the data science lifecycle - EDA, ETL, feature engineering, modeling, evaluation, and data visualization. I also have a rigorous mathematical foundation in probability, statistics, linear algebra, and multivariate calculus, which has given me a deep understanding of the tools I use.
 
 I have had two internship experiences, one in software engineering, and another in data science. Through these experiences, I have developed strong collaboration skills, and I am adept at problem framing and communication with both technical and non-technical business leaders.
 
