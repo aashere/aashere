@@ -36,7 +36,7 @@ I have explored data science and machine learning through a number of projects. 
 ![SQL](https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=sql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-3c3a3e?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-blue?style=for-the-badge&logo=snowflake&logoColor=white)
-![Tableau](https://img.shields.io/badge/-tableau-red?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/-tableau-darkgreen?style=for-the-badge&logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
