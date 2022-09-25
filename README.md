@@ -33,7 +33,7 @@ I have explored data science and machine learning through a number of projects. 
 ### ⚙️ Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache%20spark-3c3a3e?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
